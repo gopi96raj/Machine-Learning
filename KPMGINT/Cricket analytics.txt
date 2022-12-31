@@ -1,0 +1,45 @@
+Cricket analytics.
+
+Video 1
+
+Push and PUll mehcanism .. Data cost Rs 4 L per month
+
+Data providers - - Sports interactive, Hawkeye, Automation AI
+
+Q1:
+
+Video 2 
+
+cricsheet.org, statsguru from espn-Querry tool, cricmetric,bigbashboard(T20), data wrapper
+
+video 3 (DLS)
+
+resource completion-- wicket and over---DLS chart & DLS Table values
+
+T1_runs, res1 & res 2- utilized 
+
+Par score = T1* (res2/res1)
+
+try for Eng vs Pak t20 final
+
+ind vs Nz 2nd T20 22 Nov
+
+t1- 160/10 in 19.4 overs ; t2- 75/4 in 9 overs
+
+R1-100
+R2-84
+
+Par Score= (16/100)*160=
+
+
+NRR
+
+far , against values, NRR derived from baseball
+
+far- no of runs scored in all matched combined/ no of overs played
+against- No of runs scored by all opposition / No of overs played by the opposition
+
+NRR= (far-against) 
+note
+1.overs must be in exact decimal. Eg 27.3 overs ~ 27.5 
+2. when there is a allout, consider complete overs.
